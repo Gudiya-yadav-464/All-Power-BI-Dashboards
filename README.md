@@ -1,6 +1,6 @@
-# All-Power-BI-Dashboards
+# All Projects Case Studies & Reports
 
-### In this Repositry I am going to add My All Power Bi Dashbaords Links
+### In this Repositry I am going to add My All Power BI projects & Reports & SQl Case Studies
 
 ## Credit Card Analysis </br>
 Linkdin post Link - https://www.linkedin.com/feed/update/urn:li:activity:7238483602559139840/ </br>
