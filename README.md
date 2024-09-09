@@ -1,4 +1,4 @@
-# All Projects Case Studies & Reports
+# All Projects 
 
 ### In this Repositry I am going to add My All Power BI projects & Reports & SQl Case Studies
 
